@@ -5,8 +5,11 @@ void main(){
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of af5720f... 12
 =======
 >>>>>>> parent of af5720f... 12
 =======
@@ -17,7 +20,6 @@ void main(){
 <<<<<<< HEAD
     printf("Sirak\n");
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> parent of af5720f... 12
@@ -36,9 +38,12 @@ void main(){
 <<<<<<< HEAD
 =======
 >>>>>>> parent of b7e2ae4... 8
+<<<<<<< HEAD
 >>>>>>> parent of af5720f... 12
 =======
 >>>>>>> parent of b7e2ae4... 8
+>>>>>>> parent of af5720f... 12
+=======
 >>>>>>> parent of af5720f... 12
     // test
     // 3rd
